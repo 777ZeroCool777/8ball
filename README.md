@@ -8,7 +8,7 @@ https://ru.wikipedia.org/wiki/Magic_8_ball
 
 К примеру: программа рабочая?
 
-`ruby 8ball.rb`
+`ruby 8ball.rb
 
 Здравствуй, смертный. Сегодня для тебя такой ответ:
 
